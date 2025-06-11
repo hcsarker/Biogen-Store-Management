@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/c2dc684d-f8aa-4b2c-b4af-cab7ff5d7c0f)
+
+![image](https://github.com/user-attachments/assets/51f59004-74ef-4646-9f11-bf45a99ce095)
+
 
 ## Biogen Store Management
 This repository contains the code for managing the Biogen store, including product management, order processing, and customer interactions.
